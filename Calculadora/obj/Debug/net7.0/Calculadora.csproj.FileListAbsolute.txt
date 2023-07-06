@@ -1,0 +1,15 @@
+C:\cursoDotNet\Calculadora\bin\Debug\net7.0\Calculadora.exe
+C:\cursoDotNet\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+C:\cursoDotNet\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\cursoDotNet\Calculadora\bin\Debug\net7.0\Calculadora.dll
+C:\cursoDotNet\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+C:\cursoDotNet\Calculadora\obj\Debug\net7.0\Calculadora.csproj.AssemblyReference.cache
+C:\cursoDotNet\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursoDotNet\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\cursoDotNet\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\cursoDotNet\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\cursoDotNet\Calculadora\obj\Debug\net7.0\Calculadora.dll
+C:\cursoDotNet\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+C:\cursoDotNet\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+C:\cursoDotNet\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\cursoDotNet\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
