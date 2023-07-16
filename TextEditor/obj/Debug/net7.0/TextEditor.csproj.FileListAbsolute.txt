@@ -1,0 +1,15 @@
+C:\cursoDotNet\TextEditor\bin\Debug\net7.0\TextEditor.exe
+C:\cursoDotNet\TextEditor\bin\Debug\net7.0\TextEditor.deps.json
+C:\cursoDotNet\TextEditor\bin\Debug\net7.0\TextEditor.runtimeconfig.json
+C:\cursoDotNet\TextEditor\bin\Debug\net7.0\TextEditor.dll
+C:\cursoDotNet\TextEditor\bin\Debug\net7.0\TextEditor.pdb
+C:\cursoDotNet\TextEditor\obj\Debug\net7.0\TextEditor.csproj.AssemblyReference.cache
+C:\cursoDotNet\TextEditor\obj\Debug\net7.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursoDotNet\TextEditor\obj\Debug\net7.0\TextEditor.AssemblyInfoInputs.cache
+C:\cursoDotNet\TextEditor\obj\Debug\net7.0\TextEditor.AssemblyInfo.cs
+C:\cursoDotNet\TextEditor\obj\Debug\net7.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\cursoDotNet\TextEditor\obj\Debug\net7.0\TextEditor.dll
+C:\cursoDotNet\TextEditor\obj\Debug\net7.0\refint\TextEditor.dll
+C:\cursoDotNet\TextEditor\obj\Debug\net7.0\TextEditor.pdb
+C:\cursoDotNet\TextEditor\obj\Debug\net7.0\TextEditor.genruntimeconfig.cache
+C:\cursoDotNet\TextEditor\obj\Debug\net7.0\ref\TextEditor.dll
