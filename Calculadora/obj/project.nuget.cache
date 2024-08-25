@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7LzB50BZCjFjqPk+zuYG9Jdu7xxnpHVYSoc0N0IXoZcW8M4hrrt/LykT/iI4A8BzZ0tPW8kW6QBu5WL1AYMmcg==",
+  "dgSpecHash": "qwI1CYc61nY=",
   "success": true,
-  "projectFilePath": "C:\\cursoDotNet\\Calculadora\\Calculadora.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\nilto\\OneDrive\\Documentos\\projects\\Curso de C#\\Fundamentos-Do-CSharp\\Calculadora\\Calculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nilto\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\nilto\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\nilto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\nilto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

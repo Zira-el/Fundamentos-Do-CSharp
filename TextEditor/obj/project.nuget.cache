@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "efYdMjg/buu1lMAbYXU1b97Bi/jggB7nTwa9GbwX6bI140ZndTNJz1KOOwYrlLvdN61NbA25AhGwhIiy+1Pxog==",
+  "dgSpecHash": "vZfO8O/7OPM=",
   "success": true,
-  "projectFilePath": "C:\\cursoDotNet\\TextEditor\\TextEditor.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\nilto\\OneDrive\\Documentos\\projects\\Curso de C#\\Fundamentos-Do-CSharp\\TextEditor\\TextEditor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nilto\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\nilto\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\nilto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\nilto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

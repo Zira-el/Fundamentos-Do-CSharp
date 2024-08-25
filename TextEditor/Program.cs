@@ -1,6 +1,4 @@
-﻿using System.IO;
-
-namespace TextEditor
+﻿namespace TextEditor
 {
     class Program
     {

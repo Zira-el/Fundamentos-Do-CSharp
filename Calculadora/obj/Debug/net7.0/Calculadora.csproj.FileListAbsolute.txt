@@ -13,3 +13,18 @@ C:\cursoDotNet\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
 C:\cursoDotNet\Calculadora\obj\Debug\net7.0\Calculadora.pdb
 C:\cursoDotNet\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
 C:\cursoDotNet\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Calculadora\bin\Debug\net7.0\Calculadora.exe
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Calculadora\bin\Debug\net7.0\Calculadora.dll
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Calculadora\obj\Debug\net7.0\Calculadora.sourcelink.json
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Calculadora\obj\Debug\net7.0\Calculadora.dll
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll

@@ -33,7 +33,7 @@ namespace Calculadora
             }
             else
             {
-                operationChoise(operation);
+                OperationChoise(operation);
             }
         }
 
@@ -62,7 +62,7 @@ namespace Calculadora
             Menu();
         }
 
-        static void operationChoise(short operation)
+        static void OperationChoise(short operation)
         {
             Console.Clear();
             Console.WriteLine("Escolha o primeiro valor: ");
