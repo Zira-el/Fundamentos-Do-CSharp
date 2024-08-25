@@ -1,0 +1,15 @@
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Strings\Indices\obj\Debug\net8.0\Indices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Strings\Indices\obj\Debug\net8.0\Indices.AssemblyInfoInputs.cache
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Strings\Indices\obj\Debug\net8.0\Indices.AssemblyInfo.cs
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Strings\Indices\obj\Debug\net8.0\Indices.csproj.CoreCompileInputs.cache
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Strings\Indices\obj\Debug\net8.0\Indices.sourcelink.json
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Strings\Indices\bin\Debug\net8.0\Indices.exe
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Strings\Indices\bin\Debug\net8.0\Indices.deps.json
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Strings\Indices\bin\Debug\net8.0\Indices.runtimeconfig.json
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Strings\Indices\bin\Debug\net8.0\Indices.dll
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Strings\Indices\bin\Debug\net8.0\Indices.pdb
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Strings\Indices\obj\Debug\net8.0\Indices.dll
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Strings\Indices\obj\Debug\net8.0\refint\Indices.dll
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Strings\Indices\obj\Debug\net8.0\Indices.pdb
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Strings\Indices\obj\Debug\net8.0\Indices.genruntimeconfig.cache
+C:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\Strings\Indices\obj\Debug\net8.0\ref\Indices.dll
