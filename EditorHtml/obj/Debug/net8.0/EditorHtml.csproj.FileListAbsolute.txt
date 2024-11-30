@@ -1,0 +1,15 @@
+c:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\EditorHtml\bin\Debug\net8.0\EditorHtml.exe
+c:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\EditorHtml\bin\Debug\net8.0\EditorHtml.deps.json
+c:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\EditorHtml\bin\Debug\net8.0\EditorHtml.runtimeconfig.json
+c:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\EditorHtml\bin\Debug\net8.0\EditorHtml.dll
+c:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\EditorHtml\bin\Debug\net8.0\EditorHtml.pdb
+c:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.AssemblyInfoInputs.cache
+c:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.AssemblyInfo.cs
+c:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.csproj.CoreCompileInputs.cache
+c:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.sourcelink.json
+c:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.dll
+c:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\EditorHtml\obj\Debug\net8.0\refint\EditorHtml.dll
+c:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.pdb
+c:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.genruntimeconfig.cache
+c:\Users\nilto\OneDrive\Documentos\projects\Curso de C#\Fundamentos-Do-CSharp\EditorHtml\obj\Debug\net8.0\ref\EditorHtml.dll

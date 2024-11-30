@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComparacaoDeStrings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e336902024a5b692ec782e0cbbc92cd8fa7db1ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab6f86e606b90db5559129504638d932b087106e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComparacaoDeStrings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComparacaoDeStrings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
